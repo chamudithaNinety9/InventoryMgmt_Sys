@@ -18,7 +18,7 @@ Key Features
 
 Tech Stack
 
-* Frontend: React, Bootstrap, Axios
+* Frontend: React, Bootstrap, Axios, Vite
 * Backend: Spring Boot, Spring Data JPA, Hibernate
 * Database: MySQL
 * Other Tools: Maven for dependency management
